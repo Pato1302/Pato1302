@@ -1,10 +1,10 @@
 # Patricio Álvarez Hernández
 
 - 👋 Hi, I’m  *Patricio Álvarez Hernández* @Pato1302
-- 👀 I’m interested in Programming, specially in the Videogames development
+- 👀 I’m interested in Programming, especially in the Videogames development
 - 🌱 I’m currently learning Ingenería en Tecnologías Computacionales on the Tecnológico de Monterrey, Campus Cuernavaca
 - 💞️ I’m looking to collaborate on Xbox, Microsoft
-- 📫 How to reach me throught my email patalvher@hotmail.com or throught my Linkedin Patricio Álvarez Hernández https://www.linkedin.com/in/patricio-%C3%A1lvarez-hern%C3%A1ndez-39a60a203/
+- 📫 How to reach me through my email patalvher@hotmail.com or patoalvher@gmail.com or through my Linkedin Patricio Álvarez Hernández https://www.linkedin.com/in/patricio-%C3%A1lvarez-hern%C3%A1ndez-39a60a203/
 
 ![Alt Text](https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif)
 
