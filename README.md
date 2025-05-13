@@ -18,23 +18,60 @@ I'm especially interested in **game development**, where I combine creativity, s
 
 ---
 
+## 📚 Education
+
+**Tecnológico de Monterrey**  
+*B.S. in Computer Science and Technology*  
+📍 Cuernavaca, Mexico | 2021 – 2025 (Expected)
+
+**Södertörn University – Exchange Program (Sweden, 2024)**  
+- Game Programming I & II  
+- Game Design Analysis: Design  
+- Game Marketing
+
+---
+
+## 🎓 Courses & Certificates
+
+- VMEdu – Scrum for Operations & DevOps Fundamentals (2024)
+- VMEdu – Scrum Fundamentals Certified (2023)
+- University of Michigan – Introduction to HTML5 (2023)
+
+---
+
 ## 🧠 Programming & Tools
 
 Here are some of the technologies I’ve worked with:
 
-<img alt="C++" height="50" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" /> 
-<img alt="C#" height="50" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" /> 
-<img alt="Python" height="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" /> 
-<img alt="R" height="50" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" /> 
-<img alt="MATLAB" height="50" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" /> 
-<img alt="Processing" height="50" src="https://github.com/devicons/devicon/blob/master/icons/processing/processing-original.svg" />
+**Java · JavaScript · C++ · C# · Python**
+<div align="left">
+  <img alt="Java" height="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img alt="JavaScript" height="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img alt="C++" height="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
+  <img alt="C#" height="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
+  <img alt="Python" height="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+</div>
 
 ### 🎮 Game & Creative Tools
 
-<img alt="Unity" height="50" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" /> 
-<img alt="Unreal Engine" height="50" src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" /> 
-<img alt="Maya" height="50" src="https://github.com/devicons/devicon/blob/master/icons/maya/maya-original-wordmark.svg" /> 
-<img alt="Blender" height="50" src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" />
+**Unity · Unreal Engine · Visual Studio Code · Maya · Blender**
+
+<div align="left">
+  <img alt="Unity" height="40" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg">
+  <img alt="Unreal Engine" height="40" src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg">
+  <img alt="VS Code" height="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+  <img alt="Maya" height="40" src="https://github.com/devicons/devicon/blob/master/icons/maya/maya-original-wordmark.svg">
+  <img alt="Blender" height="40" src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg">
+</div>
+
+---
+
+## 📌 Currently Learning
+
+- Unity XR Toolkit and VR design
+- Shader programming (HLSL)
+- Narrative design and gameplay loops
+- Performance optimization for VR/AR
 
 ---
 
