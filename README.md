@@ -1,27 +1,45 @@
-# Patricio Álvarez Hernández
+# 👨‍💻 Patricio Álvarez Hernández
 
-- 👋 Hi, I’m  *Patricio Álvarez Hernández* @Pato1302
-- 👀 I’m interested in Programming, especially in the Videogames development
-- 🌱 I’m currently learning Ingenería en Tecnologías Computacionales on the Tecnológico de Monterrey, Campus Cuernavaca
-- 💞️ I’m looking to collaborate on Xbox, Microsoft
-- 📫 How to reach me through my email patalvher@hotmail.com or patoalvher@gmail.com or through my Linkedin Patricio Álvarez Hernández https://www.linkedin.com/in/patricio-%C3%A1lvarez-hern%C3%A1ndez-39a60a203/
+🎮 *Aspiring Game Developer | Computer Science Student | Tech Enthusiast*
 
-![Alt Text](https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif)
+---
 
-<br></br>
-## Programming Languages
-  <img alt = "C++" height="50" src = "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" > <img alt = "Processing3" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/processing/processing-original.svg" ><img alt = "Python" height="50" src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" > <img alt = "R" height="50" src = "https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" >   <img alt = "Matlab" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" >  <img alt = "Maya" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/maya/maya-original-wordmark.svg" > <img alt = "Blender" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" > <img alt = "Unreal Engine" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" >
+## 👋 About Me
 
+Hi! I'm **Patricio Álvarez Hernández** [@Pato1302](https://github.com/Pato1302), a passionate student of **Computer Science and Technology** at *Tecnológico de Monterrey, Campus Cuernavaca*.  
+I'm especially interested in **game development**, where I combine creativity, storytelling, and code to build interactive experiences.
 
-<br></br>
+- 🔭 Currently working on VR educational tools and Unity games
+- 🌱 Always learning more about game engines, design, and real-time interaction
+- 💬 Ask me about Unity, C#, VR dev, or game programming in general
+- 📫 Reach me at:  
+  📧 [patalvher@hotmail.com](mailto:patalvher@hotmail.com) | [patoalvher@gmail.com](mailto:patoalvher@gmail.com)  
+  💼 [LinkedIn – Patricio Álvarez Hernández](https://www.linkedin.com/in/patricio-%C3%A1lvarez-hern%C3%A1ndez-39a60a203/)
 
-<!---
-My name is Patricio Álvarez Hernández, I am currently studying Ingenería en Tecnologías Computacionales (Computer Technologies Engineering) in the Tecnológico de Monterrey, 
-Campus Cuernavaca
---->
+---
 
-## Hobbies
+## 🧠 Programming & Tools
 
-- *Play the drums*    <img alt = "Drums" height = "30" src = "https://cdn-icons-png.flaticon.com/512/683/683940.png" >
-- *Play videogames*  <img alt = "Videogames" height = "30" src = "https://user-images.githubusercontent.com/89617666/197915256-851db922-8b0a-4b6c-8715-1cbbb2ae72d1.png" >
-- *Programming videogames* <img alt = "Programming Videogames" height = "30" src = "https://user-images.githubusercontent.com/89617666/197915354-1bce334c-666c-4259-9b92-b35c8197f9ba.png" >
+Here are some of the technologies I’ve worked with:
+
+<img alt="C++" height="50" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" /> 
+<img alt="C#" height="50" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" /> 
+<img alt="Python" height="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" /> 
+<img alt="R" height="50" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" /> 
+<img alt="MATLAB" height="50" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" /> 
+<img alt="Processing" height="50" src="https://github.com/devicons/devicon/blob/master/icons/processing/processing-original.svg" />
+
+### 🎮 Game & Creative Tools
+
+<img alt="Unity" height="50" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" /> 
+<img alt="Unreal Engine" height="50" src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" /> 
+<img alt="Maya" height="50" src="https://github.com/devicons/devicon/blob/master/icons/maya/maya-original-wordmark.svg" /> 
+<img alt="Blender" height="50" src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" />
+
+---
+
+## 🎵 Hobbies & Interests
+
+- 🥁 Playing the **drums**
+- 🎮 Playing **video games**
+- 👾 **Designing & programming** games (especially in Unity!)
